@@ -1,17 +1,14 @@
-.contact tr{
+tr{
   height: 7rem;
 }
 
-.contact th{
+th{
   width: 150px;
   text-align: right;
 }
 
-.contact td{
+td{
   padding-left: 20px;
-}
-.text {
-  width: 480px;
 }
 
 input[type="submit"]:hover {
